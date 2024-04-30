@@ -1,4 +1,5 @@
 <template>
+  <h1>HelloWorld</h1>
     <div class="events-container">
       <div
         v-for="event in events"
