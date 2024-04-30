@@ -1,5 +1,6 @@
 <template>
   <h1>HelloWorld</h1>
+  <h2>test</h2>
     <div class="events-container">
       <div
         v-for="event in events"
